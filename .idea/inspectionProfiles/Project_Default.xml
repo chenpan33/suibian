@@ -30,7 +30,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="description:连接user表" />
+      <option name="myAdditionalJavadocTags" value="description:连接user表,description:连接player表格,date,description:ballarmy对象,description:player对象与BallArmy实现多对多关系,description:User类对应数据库中配置数据user类有id,name,age,description:与user实现一对一关系,id,sign,description:与player实现多对多关系,description:测试分次查询" />
     </inspection_tool>
   </profile>
 </component>
