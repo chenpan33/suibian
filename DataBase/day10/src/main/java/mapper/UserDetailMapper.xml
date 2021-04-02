@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- namespace绑定一个对应的Mapper接口 -->
+<mapper namespace="mapper.UserDetailMapper">
+
+    <resultMap id="UserDetailMap" type="dto.User">
+        <id property="id" column="id"/>
+        <result property="name" column="name"/>
+        <result property="age" column="age"/>
+        <association property="userDetail" javaType="dto.UserDetail">
+            <result property="sign" column="sign"/>
+        </association>
+    </resultMap>
+
+
+    <select id="selectUserDetail" resultMap="UserDetailMap">
+        select
+            u.`id` as id,
+            u.`name` as username,
+            u.age as age,
+            d.sign as sign
+            d.uid as uid
+        from
+            user as u
+        right outer join
+            userdetail as d
+        on
+            u.`id` = d.`uid`
+        where
+            username = #{username}
+
+    </select>
+
+</mapper>

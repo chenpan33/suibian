@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- namespace绑定一个对应的Mapper接口 -->
+<mapper namespace="mapper.UserMapper">
+
+    <!--查询操作-->
+    <select id="selectUser" resultType="dto.User" parameterType="integer">
+        select * from user where id=#{id}
+    </select>
+
+
+    <select id="selectUser2" resultType="dto.User" parameterType="integer">
+        select * from user where id=#{id}
+    </select>
+
+    <!-- 插入操作 -->
+
+    <!--user对象原名-->
+    <insert id="insertUser1"  parameterType="dto.User">
+        insert into user values(#{id},#{username}, #{password},#{age},#{gender})r
+    </insert>
+
+
+    <!--user对象别名-->
+    <insert id="insertUser2"  parameterType="dto.User">
+        insert into user values(#{user2.id},#{user2.username}, #{user2.password},#{user2.age},#{user2.gender})
+    </insert>
+
+    <!--多简单类型 原名-->
+    <insert id="insertUser3" >
+        insert into user (username,password,age,gender) values(#{arg0}, #{arg1},#{arg2},#{arg3})
+    </insert>
+
+    <!--多简单类型 别名-->
+    <insert id="insertUser4"  parameterType="map">
+        insert into user (username,password,age,gender) values(#{user4nName}, #{user4Psd},#{user4Age},#{user4Gender})
+    </insert>
+
+
+
+</mapper>

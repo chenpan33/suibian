@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+
+<!--NameSpace 任意起名字，就是这个Mapper.xml的身份标签-->
+<mapper namespace="mapper.UserMapper">
+
+
+<!--作业🚩-->
+    <!--int insertUsers(List<User> users);-->
+    <!--int insertUsers(@Param("users")List<User> users);-->
+    <!--int updateSelectiveUser(@Param("user")User user);-->
+
+
+    <!--1.无参list user-->
+    <!--insert into user values (id,name,age)-->
+    <insert id="insertUsers1" parameterType="dto.User">
+        insert into user values
+        <foreach collection="list" item="user1" separator="," >
+            (#{user1.id},#{user1.name},#{user1.age})
+        </foreach>
+    </insert>
+
+
+
+    <!--2.有参list user-&#45;&#45;批处理使用foreach-->
+    <!--insert into user values (id,name,age)-->
+    <insert id="insertUsers2" parameterType="dto.User">
+        insert into user values
+        <foreach collection="users" item="user2" separator=",">
+             (#{user2.id},#{user2.name},#{user2.age})
+        </foreach>
+    </insert>
+
+
+
+    <!--3. 改变user值-->
+    <!-- update user set username = ? where id = ?  -->
+    <update id="updateSelectiveUser3">
+
+        update user
+        <set>
+            <if test="user.name != null">
+                name = #{user.name},
+            </if>
+
+            <if test="user.age != null">
+                age = #{user.age},
+            </if>
+        </set>
+        <where>
+            id = #{user.id}
+        </where>
+    </update>
+
+</mapper>

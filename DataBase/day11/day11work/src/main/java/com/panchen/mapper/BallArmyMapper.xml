@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.panchen.mapper.BallArmyMapper">
+
+
+    <!--输出的结果表 表中一部分内容从-->
+    <resultMap id="BallArmyMap" type="com.panchen.dto.BallArmy">
+        <id column="id" property="id"/>
+        <result column="name" property="name"/>
+        <collection column="id"
+                    property="players"
+                    javaType="list"
+                    ofType="com.panchen.dto.Player"
+                    select="selectPlayersByBallArmyId">
+        </collection>
+
+    </resultMap>
+
+    <!--对队伍进行查询 获得查询结果表-->
+    <select id="selectBallArmyWithPlayerByName" resultMap="BallArmyMap">
+        select id ,name from ballarmy where name=#{name}
+    </select>
+
+
+
+    <!--获取player表中内容-->
+    <select id="selectPlayersByBallArmyId" resultType="com.panchen.dto.Player">
+        select
+              id as id,
+              name as name,
+              armyId as armyId
+        from player
+        where armyId=#{armyId}
+    </select>
+
+</mapper>

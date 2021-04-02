@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$USER_HOME$/Music/00000000王道文件夹/[本地]数据库/29th/Day08_Mybatis(01)/code/ch04-mybatis-output-mapping/pom.xml" />
+        <option value="$USER_HOME$/Music/00000000王道文件夹/[本地]数据库/29th/Day08_Mybatis(01)/code/ch03-mybatis-param/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

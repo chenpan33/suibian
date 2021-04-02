@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.panchen.mapper.UserMapper">
+    <resultMap id="userCountMap" type="com.panchen.dto.User">
+        <id column="id" property="id"/>
+        <result column="name" property="name"/>
+
+        <!--一对一使用association连接-->
+        <association property="userDetail" javaType="com.panchen.dto.UserDetail"
+        select="selectUserDetailByUserId" column="id" fetchType="lazy"/>
+    </resultMap>
+
+
+    <!--一次查询 对user进行查询-->
+    <select id="selectUserWithDetailById" resultMap="userCountMap">
+      select id, name from user where id=#{id}
+
+    </select>
+    <!--二次查询 对userDetail进行查询-->
+    <select id="selectUserDetailByUserId" resultType="com.panchen.dto.UserDetail">
+
+        select
+                id as id,
+                uid as uid,
+                age as age,
+                sign as sign
+        from userdetail
+        where uid = #{xxx}
+    </select>
+
+</mapper>

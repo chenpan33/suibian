@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48570eba-0def-48e6-ae1e-ba7909d22c22" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Acwing/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Acwing/src/T801.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Acwing/src/basic/week1/t785QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Acwing/src/basic/week1/t786Kthnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/How2j/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/How2j/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/How2j/src/character/IStringBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/How2j/src/character/MyStringBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/How2j/src/exception/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/How2j/src/exception/IndexIsNagetiveException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/How2j/src/exception/IndexIsOutofRangeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/How2j/src/exception/OverDraftException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/How2j/src/file/FileFounction/FileFounction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/How2j/src/file/FileFounction/traverseFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/How2j/src/j02Mid/M02IO/a06ObjectStream/A11ZongHe/CopyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/How2j/src/j02Mid/M02IO/a06ObjectStream/A11ZongHe/copyFolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Acwing/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Acwing/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Acwing/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Acwing/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Acwing/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Acwing/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Acwing/src/p3203picture.java" beforeDir="false" afterPath="$PROJECT_DIR$/Acwing/src/com/p3203picture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Acwing/src/p3208ZigzagScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Acwing/src/com/p3208ZigzagScan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Acwing/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Acwing/src/com/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/How2j/src/Tmid01Exception/t02ExceptionDeal/Work.java" beforeDir="false" afterPath="$PROJECT_DIR$/How2j/src/Tmid01Exception/t02ExceptionDeal/Work.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/day11/day11work/target/" />
+    <ignored path="$PROJECT_DIR$/day10/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mybatis-config" />
+        <option value="Interface" />
+        <option value="mapper" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>selectPlayersByBallArmyId</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/day11/day11work/pom.xml" />
+        <option value="$PROJECT_DIR$/day11/day11work/src/main/java/com/panchen/dto/UserDetail.java" />
+        <option value="$PROJECT_DIR$/day11/day11work/src/main/java/com/panchen/mapper/Player.java" />
+        <option value="$PROJECT_DIR$/day11/day11work/src/main/java/com/panchen/dto/User.java" />
+        <option value="$PROJECT_DIR$/day11/day11work/src/test/java/Muti_Query_Test.java" />
+        <option value="$PROJECT_DIR$/day11/day11work/src/main/java/com/panchen/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/day11/day11work/src/main/java/com/panchen/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/day11/day11work/src/main/java/com/panchen/dto/Player.java" />
+        <option value="$PROJECT_DIR$/day11/day11work/src/main/java/com/panchen/dto/BallArmy.java" />
+        <option value="$PROJECT_DIR$/day11/day11work/src/main/java/com/panchen/mapper/BallArmyMapper.java" />
+        <option value="$PROJECT_DIR$/day11/day11work/src/main/java/com/panchen/mapper/BallArmyMapper.xml" />
+        <option value="$PROJECT_DIR$/day11/day11work/src/test/java/com/panchen/Muti_Query_Test.java" />
+        <option value="$PROJECT_DIR$/day11/day11work/src/main/resources/mybatis-config.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="day11work" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="day11work" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1932" />
+    <option name="y" value="-12" />
+    <option name="width" value="1943" />
+    <option name="height" value="1064" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617370899477" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day10/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.panchen" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\11924\IdeaProjects\day11\day11work\src\main\resources" />
+      <recent name="C:\Users\11924\IdeaProjects\day11\day11work\src\main\java\com\panchen\dto" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Muti_Query_Test.TestOne2Much">
+    <configuration name="Muti_Query_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day11work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.panchen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.panchen" />
+      <option name="MAIN_CLASS_NAME" value="com.panchen.Muti_Query_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Muti_Query_Test.TestOne2Much" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day11work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.panchen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.panchen" />
+      <option name="MAIN_CLASS_NAME" value="com.panchen.Muti_Query_Test" />
+      <option name="METHOD_NAME" value="TestOne2Much" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Muti_Query_Test.TestOne2One" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day11work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.panchen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.panchen" />
+      <option name="MAIN_CLASS_NAME" value="com.panchen.Muti_Query_Test" />
+      <option name="METHOD_NAME" value="TestOne2One" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Muti_Query_Test.TestOne2Much" />
+        <item itemvalue="JUnit.Muti_Query_Test.TestOne2One" />
+        <item itemvalue="JUnit.Muti_Query_Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48570eba-0def-48e6-ae1e-ba7909d22c22" name="Default Changelist" comment="" />
+      <created>1617360946699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617360946699</updated>
+      <workItem from="1617360950829" duration="10507000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Muti_Query_Test_TestOne2One - 2021.04.02 at 21h 22m 59s.xml">
+      <configuration name="Muti_Query_Test.TestOne2One" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Muti_Query_Test_TestOne2Much - 2021.04.02 at 21h 23m 09s.xml">
+      <configuration name="Muti_Query_Test.TestOne2Much" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Muti_Query_Test_TestOne2Much - 2021.04.02 at 21h 24m 39s.xml">
+      <configuration name="Muti_Query_Test.TestOne2Much" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Muti_Query_Test_TestOne2Much - 2021.04.02 at 21h 28m 12s.xml">
+      <configuration name="Muti_Query_Test.TestOne2Much" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Muti_Query_Test_TestOne2Much - 2021.04.02 at 21h 31m 59s.xml">
+      <configuration name="Muti_Query_Test.TestOne2Much" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Muti_Query_Test_TestOne2Much - 2021.04.02 at 21h 33m 37s.xml">
+      <configuration name="Muti_Query_Test.TestOne2Much" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Muti_Query_Test_TestOne2Much - 2021.04.02 at 21h 34m 44s.xml">
+      <configuration name="Muti_Query_Test.TestOne2Much" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Muti_Query_Test_TestOne2Much - 2021.04.02 at 21h 35m 30s.xml">
+      <configuration name="Muti_Query_Test.TestOne2Much" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Muti_Query_Test_TestOne2Much - 2021.04.02 at 21h 36m 09s.xml">
+      <configuration name="Muti_Query_Test.TestOne2Much" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Muti_Query_Test_TestOne2Much - 2021.04.02 at 21h 40m 50s.xml">
+      <configuration name="Muti_Query_Test.TestOne2Much" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10507000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1929" y="-9" width="1554" height="851" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.40735695" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.64850134" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42643052" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="leetcode" order="2" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Database" order="8" sideWeight="0.4250681" weight="0.24262735" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+      <window_info anchor="right" id="Codota" order="11" sideWeight="0.57493186" side_tool="true" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/day11/day11work/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/day11work/src/main/resources/PlayerTeam.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/day11work/src/main/resources/userDetail.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/day11work/src/main/java/com/panchen/mapper/Player.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/day11work/src/main/java/com/panchen/dto/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/day11work/src/main/java/com/panchen/dto/UserDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/invoke/DirectMethodHandle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="282" selection-start-line="282" selection-end-line="282" />
+          <folding>
+            <element signature="e#12011#12012#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/invoke/LambdaForm.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="642" selection-start-line="642" selection-end-line="642" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="1659" selection-start-line="1659" selection-end-line="1659" />
+          <folding>
+            <element signature="e#32334#32335#0" expanded="true" />
+            <element signature="e#32385#32386#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.2/mybatis-3.5.2-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="285" selection-start-line="285" selection-end-line="285" />
+          <folding>
+            <element signature="e#8853#8854#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.2/mybatis-3.5.2-sources.jar!/org/apache/ibatis/binding/MapperProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="60" column="52" selection-start-line="60" selection-start-column="52" selection-end-line="60" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.2/mybatis-3.5.2-sources.jar!/org/apache/ibatis/binding/MapperMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="350" selection-start-line="350" selection-end-line="350" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/jre/lib/rt.jar!/sun/misc/Launcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="1643" column="5" selection-start-line="1643" selection-start-column="5" selection-end-line="1643" selection-end-column="5" />
+          <folding>
+            <element signature="e#62860#62861#0" expanded="true" />
+            <element signature="e#62916#62917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="330" selection-start-line="330" selection-end-line="330" />
+          <folding>
+            <element signature="e#6024#6025#0" expanded="true" />
+            <element signature="e#6052#6053#0" expanded="true" />
+            <element signature="e#6222#6223#0" expanded="true" />
+            <element signature="e#6249#6250#0" expanded="true" />
+            <element signature="e#10626#10627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/day11work/src/main/java/com/panchen/dto/BallArmy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/day11work/src/main/java/com/panchen/mapper/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/day11work/src/main/java/com/panchen/dto/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/day11work/src/main/java/com/panchen/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/day11work/src/main/java/com/panchen/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/day11work/src/main/java/com/panchen/mapper/BallArmyMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/day11work/src/main/java/com/panchen/mapper/BallArmyMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/day11work/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="26" column="45" lean-forward="true" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11/day11work/src/test/java/com/panchen/Muti_Query_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>day11work</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

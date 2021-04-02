@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+
+<configuration>
+
+    <!--加载properties 配置文件-->
+    <!--<properties resource="jdbc.properties"/>-->
+
+
+    <!--日志配置-->
+    <settings>
+        <setting name="logImpl" value="STDOUT_LOGGING"/>
+    </settings>
+
+    <!--<typeAliases>-->
+    <!--&lt;!&ndash;<typeAlias type="com.cskaoyan.dto.User" alias="user"/>&ndash;&gt;-->
+    <!--<package name="com.cskaoyan"/>-->
+    <!--</typeAliases>-->
+
+
+    <!-- 这个是环境配置-->
+    <environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="com.mysql.jdbc.Driver"/>
+                <property name="url" value="jdbc:mysql://localhost:3306/day10?useSSL=false&amp;characterEncoding=utf8"/>
+                <property name="username" value="root"/>
+                <property name="password" value="123456"/>
+            </dataSource>
+        </environment>
+    </environments>
+
+
+    <!-- name处填写我们自己写的UserMapper.xml所在的包的全限定类名,目的注册mapper到mybatis配置文件中-->
+    <mappers>
+
+        <package name="com.panchen.mapper"/>
+
+    </mappers>
+
+
+</configuration>
