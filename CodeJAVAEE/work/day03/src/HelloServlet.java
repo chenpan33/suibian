@@ -8,15 +8,16 @@ import java.io.IOException;
 /**
  * @author panda
  * @description:
- * @date 2021/4/14 18:03
+ * @date 2021/4/14 20:06
  */
-@WebServlet("/login")
-public class MallServlet extends HttpServlet {
+@WebServlet("/hello")
+public class HelloServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-
+        response.getWriter().println("hello");
+        test.sayHello();
     }
 }

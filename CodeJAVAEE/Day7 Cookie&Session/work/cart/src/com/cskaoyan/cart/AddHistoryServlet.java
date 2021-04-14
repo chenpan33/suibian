@@ -22,7 +22,7 @@
 // * ③将list存放到服务器
 // * @date 2021/4/13 21:38
 // */
-////☆ 如何设置每次访问商品即执行request都会将增加商品到historyList上面--------->将这个方法放进商品详情页中(不太容易实现)
+////☆ 如何设置每次访问商品即执行request都会将增加商品到historyList上面--------->将这个方法放进商品详情页中(不太容易实现)----可以在detail里面再发一次请求 从而触发该servlet----具体: 使用js通过<a>标签用一个代码块去实现请求
 ////☆  在进入商品详情前也存在点击动作--------->因此, 将这个方法放进
 //@WebServlet("/addHistory")
 //public class AddHistoryServlet extends HttpServlet {
