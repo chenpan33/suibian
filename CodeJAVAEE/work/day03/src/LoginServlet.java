@@ -15,11 +15,11 @@ import java.util.Map;
  * @description:登陆界面servlet
  * @date 2021/4/14 18:34
  */
-@WebServlet("/login/*")
+@WebServlet("/login")
 public class LoginServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         response.setCharacterEncoding("utf-8");
-        PrintWriter printWriter = new PrintWriter(new FileWriter(new File("post.txt")));
+        PrintWriter printWriter = new PrintWriter(new FileWriter(new File("C:/desktop/post.txt")));
         printWriter.println("=============请求行==============");
         printWriter.println(request.getMethod()+" "+request.getRequestURI()+" "+request.getProtocol());
 
@@ -39,6 +39,14 @@ public class LoginServlet extends HttpServlet {
         Map<String, String[]> parameterMap = request.getParameterMap();
         //使用foreach遍历map
         // parameterMap.entrySet())
+        for (Map.Entry<String, String[]> entry : parameterMap.entrySet()) {
+            printWriter.print(entry.getKey()+":\t");
+            String[] values =entry.getValue();
+            for (String value : values) {
+                printWriter.print(value+" ");
+            }
+            printWriter.println();
+        }
 
     }
 

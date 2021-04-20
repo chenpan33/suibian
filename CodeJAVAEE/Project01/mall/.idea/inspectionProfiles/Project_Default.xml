@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="JavaDoc" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="TOP_LEVEL_CLASS_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="INNER_CLASS_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="METHOD_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
+        </value>
+      </option>
+      <option name="FIELD_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="IGNORE_DEPRECATED" value="false" />
+      <option name="IGNORE_JAVADOC_PERIOD" value="true" />
+      <option name="IGNORE_DUPLICATED_THROWS" value="false" />
+      <option name="IGNORE_POINT_TO_ITSELF" value="false" />
+      <option name="myAdditionalJavadocTags" value="description:后台管理模块的servlet文件,date,description:记录登录接受的变量,description:记录登录接收的变量,description:展示管理员的所有信息,description:展示管理员登录界面信息,description:用接口确定要实现的功能,具体操作逻辑使用下面的继承接口的类来实现,description:用接口确定要实现的功能,具体操作逻辑使用下面的继承接口的类来实现,description:用接口确定要实现的功能,具体操作逻辑使用下面的继承接口的类来实现,description:用接口确定要实现的功能,具体操作逻辑使用下面的继承接口的类来实现,description:实现具体的从数据路查询登录是否通过的相关信息,description:Admin相关数据,description:result结果返回的相关数据,description:Java与数据库进行连接mybatis,description:与数据库进行连接的mapper接口文件,description:管理模块与servlet之间连接,description:管理模块与servlet之间连接,filter实现一些servlet一定会实现的操作,description:管理模块与servlet之间连接,filter实现一些servlet一定会实现的操作,description:用接口确定要实现的功能,具体操作逻辑使用下面的继承接口的类来实现,description:result结果返回的相关数据code自己设置,成功0,失败1000,description:result结果返回的相关数据code自己设置,成功0,失败1000" />
+    </inspection_tool>
+  </profile>
+</component>
