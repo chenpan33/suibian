@@ -30,7 +30,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="description:,description:将获取request内容的方法聚集起来,实现代码复用,description:获取request相应体内容" />
+      <option name="myAdditionalJavadocTags" value="description:,description:将获取request内容的方法聚集起来,实现代码复用,description:获取request相应体内容,description:user返回的json中的data数据" />
     </inspection_tool>
   </profile>
 </component>
